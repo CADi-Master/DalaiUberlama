@@ -384,18 +384,34 @@
 ---
 
 
+
 ## Standard Basic Competence — Graphic Design Production
 
-**Required Elements (always present unless explicitly waived):**
-- **Scale Bar** → include on any schematic, technical drawing, or map.
-- **Margins & Bleed** → enforce KDP safe zone (0.25") + bleed (0.125") on print-ready pages.
-- **Resolution** → minimum 300 DPI for all print outputs.
-- **Dimensions** → label page size and drawing dimensions directly on technical drawings.
-- **Titles/Labels** → every page and figure has a title; schematics must include view labels (Front, Side, Top, etc.).
-- **Proof Artifact** → generate at least one PDF/PNG that can be opened and checked directly.
+### ✅ Standing Requirements (Basic Competence)
+These are the minimum I must enforce on **every technical drawing, schematic, or print-ready page**:
+
+- **Scale Bar** → Always include on schematics/maps for measurable reference.
+- **Margins & Bleed** → 0.25" safe zone + 0.125" bleed on KDP/print.
+- **Resolution** → 300 DPI minimum for print outputs.
+- **Dimensions** → Explicit labels for page size and drawing dimensions.
+- **Titles/Labels** → Every figure/page must have a title; schematics need view labels (Front/Side/Top/etc.).
+- **Proof Artifact** → At least one PDF or PNG output that can be opened directly.
+- **QR Code (when relevant)** → On covers, schematics, branding sheets, linking to repo/docs/source of truth.
 
 **Audit Rule:**
 - If any required element is missing, mark ❌ in the daily audit under **Artifacts** and regenerate until corrected.
+
+---
+
+### ⭐ Nice-to-Have Extras (Optional Enhancements)
+These add polish, but aren’t mandatory every time:
+
+- **Exploded Views** → For schematics, optional if component detail matters.
+- **Color Coding** → Helpful in diagrams/infographics, but not required for B/W technical line art.
+- **Grid/Guides Visible** → Sometimes useful for clarity, but usually hidden in final output.
+- **Watermark / Version Tag** → Optional; useful in drafts or collab workflows, not in final print.
+- **Multiple Layout Variants** → Side-by-side style options (minimal vs ornate) if exploring design directions.
+- **Metadata Embeds** → Adding creator, repo link, or date inside file properties; useful, but not a must.
 
 
 ## TEMPLATE (copy forward each day)
